@@ -1,0 +1,42 @@
+body
+{
+  color: white;
+    background:linear-gradient(lightgreen,lightblue,lightgreen,lightblue,lightgreen,lightblue,lightgreen,lightblue);
+  font-family: 'Caveat', cursive;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#emotion_name_1 ,#emotion_name_2  
+{
+  color: black;
+}
+.em
+{
+  font-size: 40px;
+}
+.e
+{
+  font-size:48px;
+}
+label{
+  background: white;
+  color: green;
+  border-radius: 10px;
+  padding: 10px;
+}
+.heading{
+  letter-spacing: 10px;
+  border-radius: 10px;
+  font-size: 23px;
+}
+p{
+    font-size: 50px;
+}
